@@ -167,6 +167,7 @@ THEME_COLOR = '#5670d4'
 # just independent HTML pages.
 #
 
+
 POSTS = (
     ("posts/*.rst", "posts", "post.tmpl"),
     ("posts/*.txt", "posts", "post.tmpl"),
@@ -177,6 +178,8 @@ PAGES = (
     ("stories/*.txt", "stories", "story.tmpl"),
     ("stories/*.html", "stories", "story.tmpl"),
 )
+POSTS = POSTS + (("posts/*.org", "posts", "post.tmpl"),)
+PAGES = PAGES + (("stories/*.org", "stories", "story.tmpl"),)
 
 
 # Below this point, everything is optional
@@ -259,6 +262,7 @@ COMPILERS = {
     # but is disabled by default as it would conflict
     # with many of the others.
     # "pandoc": ('.rst', '.md', '.txt'),
+    "orgmode": ('.org')
 }
 
 # Create by default posts in one file format?
