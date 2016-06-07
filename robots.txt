@@ -1,4 +1,4 @@
-Sitemap: http://sologile.com/sitemapindex.xml
+Sitemap: http://jyriand.github.io/sitemapindex.xml
 
 User-Agent: *
-Host: sologile.com
+Host: jyriand.github.io
