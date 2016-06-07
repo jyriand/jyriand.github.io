@@ -1,0 +1,4 @@
+Sitemap: http://sologile.com/sitemapindex.xml
+
+User-Agent: *
+Host: sologile.com
