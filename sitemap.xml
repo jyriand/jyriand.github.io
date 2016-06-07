@@ -15,11 +15,11 @@
  </url>
  <url>
   <loc>http://jyriand.github.io/archive.html</loc>
-  <lastmod>2016-06-07T15:37:00Z</lastmod>
+  <lastmod>2016-06-07T15:43:00Z</lastmod>
  </url>
  <url>
   <loc>http://jyriand.github.io/categories/</loc>
-  <lastmod>2016-06-07T15:07:00Z</lastmod>
+  <lastmod>2016-06-07T15:43:00Z</lastmod>
  </url>
  <url>
   <loc>http://jyriand.github.io/categories/cat_emacs/</loc>
@@ -32,6 +32,10 @@
  <url>
   <loc>http://jyriand.github.io/categories/org-mode/</loc>
   <lastmod>2016-06-07T15:07:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jyriand.github.io/categories/orgmode/</loc>
+  <lastmod>2016-06-07T15:43:00Z</lastmod>
  </url>
  <url>
   <loc>http://jyriand.github.io/galleries/</loc>
@@ -48,5 +52,9 @@
  <url>
   <loc>http://jyriand.github.io/posts/code-highlighting/</loc>
   <lastmod>2016-06-07T15:07:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jyriand.github.io/posts/testing-subheadings/</loc>
+  <lastmod>2016-06-07T15:43:00Z</lastmod>
  </url>
 </urlset>
