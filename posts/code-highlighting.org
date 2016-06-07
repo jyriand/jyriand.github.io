@@ -1,0 +1,21 @@
+#+BEGIN_COMMENT
+.. title: Code highlighting
+.. slug: code-highlighting
+.. date: 2016-06-07 18:05:53 UTC+03:00
+.. tags: Emacs, org-mode
+.. category: Emacs
+.. link:
+.. description: Highlighting code
+.. type: text
+#+END_COMMENT
+
+Define hello world:
+#+BEGIN_SRC clojure
+(defn hello-world []
+  (println "Hello world")
+#+END_SRC
+
+Lets call it now:
+#+BEGIN_SRC clojure
+(hello-world)
+#+END_SRC
